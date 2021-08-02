@@ -59,7 +59,10 @@ class Board
     end
 
 
-
+    # def update(input, player)                      why wont this work ?
+    #     self.position(input) = player.token
+       
+    # end
     
     
 
